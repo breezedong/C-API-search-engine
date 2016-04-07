@@ -1,0 +1,2 @@
+C:\Users\breeze\Desktop\upload_audio.apk@API|[SMS_RECEIVED, getLongitude, getDisplayOriginatingAddress, registerReceiver, getDisplayMessageBody, registerReceiver, getLatitude]@NUM|[+8615272517282]@URL|[http://sdk.eoemarket.com/libs/apps/feedback, http://sdk.eoemarket.com/libs/logger/receive_file, http://sdk.eoemarket.com/libs/logger/device, http://sdk.eoemarket.com/libs/payments/order, http://file1.eoemarket.com/eoe/apps/alipay/mobile_sp.apk, http://loc.map.baidu.com/sdk.php, http://sdk.eoemarket.com/libs/apps/msg, http://loc.map.baidu.com/sdk_ep.php]
+
